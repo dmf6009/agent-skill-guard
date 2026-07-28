@@ -1,0 +1,7 @@
+# Agent Skill Guard
+Local SKILL.md structure and security scanner.
+- / — scanner
+- /skill-md-validator — format guide
+- /agent-skill-security — threat model
+- /skill-description-generator — activation description guide
+Static text review does not establish publisher trust or inspect referenced scripts and assets.

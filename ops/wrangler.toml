@@ -1,0 +1,7 @@
+name = "agent-skill-guard-domain"
+main = "worker-proxy.js"
+compatibility_date = "2026-07-28"
+
+[[routes]]
+pattern = "skillguard.guagua-alvin.top"
+custom_domain = true
